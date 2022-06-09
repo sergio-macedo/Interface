@@ -1,4 +1,4 @@
-package Services;
+package services;
 
 public interface OnlinePaymentService {
     public Double paymentFee( double amount);

@@ -1,4 +1,4 @@
-package Services;
+package services;
 
 public class GermanyTaxService implements TaxService {
         public double tax(double amount) {

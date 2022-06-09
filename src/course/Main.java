@@ -1,8 +1,7 @@
 package course;
 
-import Services.BrazilTaxService;
-import Services.GermanyTaxService;
-import Services.RentalService;
+import services.BrazilTaxService;
+import services.RentalService;
 import entities.CarRental;
 import entities.Vehicle;
 
